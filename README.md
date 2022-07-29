@@ -44,6 +44,8 @@ Many things are under construction, so please be patient. Any contribution is we
 
 This fork will always stay open-source and maintained by the community.
 
+<p align="right"><a href="#top">⬆️ Back to top️</a></p>
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
